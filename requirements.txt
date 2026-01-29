@@ -1,0 +1,11 @@
+python-docx
+pandas
+voyageai
+sqlalchemy
+pgvector
+psycopg2-binary
+fpdf
+streamlit
+requests
+python-pptx
+python-dotenv
