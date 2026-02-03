@@ -3,6 +3,14 @@ import json
 import re
 from io import BytesIO
 from datetime import date
+from Chat_pipeline import retrieve_context
+
+if "kb_warmed" not in st.session_state:
+    try:
+        _ = retrieve_context("account planning")
+        st.session_state["kb_warmed"] = True
+    except Exception:
+        st.session_state["kb_warmed"] = False
 
 st.set_page_config(page_title="Account Plan Generator", page_icon="🤖", layout="wide")
 st.title("🤖 Account Plan Generator")
