@@ -1,0 +1,229 @@
+chunk_text
+"Adaptive Account Planning Framework
+How to Use This Framework
+This framework adapts to two dimensions:
+Account Planning Depth: How much planning does this account need?
+Planning Help Level: How much guidance do you want in thinking through each section?"
+"Step 1: Determine Your Account Planning Depth
+Answer these questions about the account:
+Strategic Importance (Choose one):
+ Tier 1: Top 10% of accounts by revenue OR high growth potential OR strategic reference value
+ Tier 2: Solid performing accounts with moderate growth opportunity
+ Tier 3: Smaller accounts or mature accounts with limited growth potential
+Complexity (Choose one):
+ High: Multiple decision-makers, long sales cycles, complex solution set, or significant risk
+ Medium: Some complexity in relationships or solutions, but manageable
+ Low: Straightforward relationship and solution set
+Current Status (Choose one):
+ At Risk: Facing competitive pressure, relationship issues, or declining revenue
+ Growth Opportunity: Clear potential to expand significantly
+ Stable: Performing as expected, no major concerns or opportunities
+Recommended Planning Depth:
+Choose COMPREHENSIVE planning if:
+Account is Tier 1, OR
+Account is at risk (any tier), OR
+Account has high complexity + growth opportunity
+Choose GUIDED planning if:
+Account is Tier 2 with medium complexity, OR
+Account is Tier 1 but stable and low complexity
+Choose STREAMLINED planning if:
+Account is Tier 3 with low complexity and stable
+Override this recommendation if your judgment differs - you know your accounts better than any rubric."
+"Step 2: Select Your Planning Help Level
+Streamlined Help: You're confident and want just the key questions (2-3 prompts per section)
+Guided Help: You want moderate support to think through each area (4-5 prompts per section)
+Comprehensive Help: You want extensive guidance and diagnostic questions (6-8 prompts per section)
+
+Warning Check
+ If you've selected Streamlined Planning for a Tier 1 account: Are you sure? Strategic accounts typically benefit from deeper planning.
+ If you've selected Comprehensive Planning for a stable Tier 3 account: Consider whether this level of planning is the best use of your time."
+"ACCOUNT PLANNING TEMPLATE
+Account Name: _________________
+Planning Depth Selected: Streamlined / Guided / Comprehensive (circle one)
+Help Level Selected: Streamlined / Guided / Comprehensive (circle one)
+Date: _________________
+Updated: _________________
+
+Section 1: Account Overview
+This section appears in all planning depths
+Basic Information
+Key Account Characteristics:
+Primary Contact(s):
+Decision-Makers:
+Financial History
+Revenue History (past 2-3 years):
+Profitability/Margin:
+Past Key Projects:
+Targets
+Coming Year Revenue Target: $__________
+Basis for Target (Why is this realistic or stretch?):"
+"PLANNING PROMPTS: Account Overview
+STREAMLINED HELP (2-3 prompts):
+What makes this account different from your other accounts? What do they care about that others don't?
+Is your revenue trend with them up, down, or flat? What does that tell you about your position?
+Is your revenue target realistic based on history, or does it require a fundamentally different relationship?
+GUIDED HELP (4-5 prompts):
+What makes this account different from your other accounts? What do they care about that others don't?
+Looking at your financial history with them - is the trend up, down, or flat? What does that pattern tell you about your position with them?
+Review your past key projects - what types of problems have they hired you to solve? Is there a pattern in the work you do for them?
+Is your coming year revenue target realistic based on history, or does it require a different type of relationship or offering?
+If you had to describe this account in one sentence to a colleague, what would you say?
+COMPREHENSIVE HELP (6-8 prompts):
+What makes this account strategically different from others? Consider: their business model, decision-making style, what they value, how they buy.
+Looking at your financial history - what's the trend line (up/down/flat) and what's the volatility (steady or erratic)? What does each tell you?
+Review your past key projects with fresh eyes - categorize them by type (strategic vs tactical, proactive vs reactive, complex vs simple). What pattern emerges?
+What's your profitability/margin trend with this account? Are you becoming more or less profitable with them over time, and why?
+Is your revenue target realistic based on trajectory, or does it require a fundamentally different relationship? If it's a stretch, what specifically needs to change?
+Who are the 3-5 people who most influence whether you win, grow, or lose with this account? Do you have strong relationships with all of them?
+If this account fired you tomorrow, what would they say was the reason? If they doubled their spend with you, what would be the catalyst?
+On a scale of 1-10, how well do you understand their strategic priorities for the coming year? What would you need to know to get to a 10?"
+"Section 2: Last Year Assessment
+This section appears in all planning depths
+What Happened Last Year
+Completed Initiatives/Projects:
+Initiatives Not Completed (and why):
+Hits (What went better than expected):
+Misses (What went worse than expected):
+Key Lessons:"
+"PLANNING PROMPTS: Last Year Assessment
+STREAMLINED HELP (2-3 prompts):
+Be honest: What did you commit to last year that didn't happen? Why not?
+What surprised you (good or bad) about how this account performed?
+If you could redo one decision with this account from last year, what would it be?
+GUIDED HELP (4-5 prompts):
+Looking at your completed vs. not completed initiatives - is there a pattern in what didn't happen? (Lack of time, their delays, our capacity, misaligned priorities?)
+Your ""hits"" - what did you do that created those wins? Can you replicate that approach?
+Your ""misses"" - be brutally honest: Were these in your control or theirs? What could you have done differently?
+What surprised you (positive or negative) about this account's behavior last year?
+If you were coaching a colleague on this account, what's the one lesson you'd emphasize?
+COMPREHENSIVE HELP (6-8 prompts):
+Review your completed initiatives - which were strategic vs. tactical? Did you spend your time where you intended?
+Looking at initiatives not completed - categorize by reason (our capacity, their delays, priorities changed, relationship issues, external factors). What's the primary pattern?
+Your ""hits"" - dig deeper: What capabilities did you demonstrate? What relationships did you strengthen? What did they learn about you that they didn't know before?
+Your ""misses"" - distinguish between execution misses (we didn't deliver what we promised) vs. strategic misses (we pursued the wrong opportunities). Which predominates?
+What surprised you most about this account's behavior, decisions, or priorities last year? What does that tell you about how well you understand their business?
+Compare your revenue target from last year to actual results - if there's a gap, what were the 2-3 primary reasons?
+Did your relationship with key decision-makers strengthen, weaken, or stay the same last year? What specific evidence supports that assessment?
+If you could redo your account strategy from last year knowing what you know now, what would you change? (Be specific - don't just say ""pay more attention"")"
+"Section 3: Strategic Position Diagnosis
+This section appears in GUIDED and COMPREHENSIVE planning depth
+(For STREAMLINED planning depth, skip to Section 4)
+Your Current Position
+Where do you live in their world? (Check the one that best describes your primary position)
+ Tactical Vendor: They call us for specific tasks, price-focused, project-by-project
+ Preferred Provider: They call us first, but still project-by-project thinking
+ Strategic Partner: Integrated into their planning, relationship with leadership
+ Trusted Advisor: Consulted on strategy, deep relationships across functions
+For which specific functions or leaders does this apply? (Are you different things to different parts of their organization?)
+
+Your Growth Constraint
+What's the primary factor limiting your growth with this account? (Pick ONE)
+ Relationship Breadth: We know too few people; single point of failure
+ Relationship Depth: They know us but don't trust us with bigger problems
+ Capability Awareness: They don't understand full scope of what we can do
+ Value Perception: They see us as tactical/commodity, not strategic
+ Strategic Misalignment: What they need next isn't our strength
+ Competitive Pressure: Someone else is winning the expansion opportunities
+ Organizational Constraints: Their budget, politics, or structure limits growth
+ Wallet Share Exhaustion: We've legitimately captured what's available
+Evidence supporting this diagnosis:
+What have you tried that worked or didn't work?:
+
+Strategic Implication
+Given this diagnosis, what needs to change for you to grow?"
+"PLANNING PROMPTS: Strategic Position Diagnosis
+GUIDED HELP (4-5 prompts):
+On Your Position:
+If your main contact left tomorrow, how many other people in the account would advocate for you? What does that number tell you?
+Are you invited into their planning conversations, or do they come to you with pre-determined needs?
+Do they see you as someone who executes their ideas, or someone who shapes their thinking?
+Is your position the same across all parts of their organization, or are you a trusted advisor in one area but a vendor in another?
+On Your Constraint: 5. Looking at opportunities you didn't win last year - was there a common pattern in why? (That pattern is likely your constraint)
+COMPREHENSIVE HELP (6-8 prompts):
+On Your Position:
+Map the key decision-makers and influencers - for each person, how would they describe your role? (""They're our vendor for X"" vs. ""They're our partner in solving Y"" vs. ""They help us think through Z"")
+When was the last time they asked your opinion before making a decision (vs. asking you to implement a decision already made)? What does the frequency tell you?
+Do they introduce you to their customers, partners, or board? If yes, how do they describe you? If no, why not?
+Compare your relationship with the executive team vs. operational team - is there a gap? Which relationship is stronger and why?
+If they were choosing between you and a competitor for a major new project, what would be the deciding factors? Would it be price, relationship, capability, or something else?
+On Your Constraint: 6. Review every expansion opportunity you pursued last year that didn't close - what was the stated reason vs. the likely real reason? The pattern reveals your constraint. 7. If your primary constraint is relationships (breadth or depth), which specific relationship is the highest leverage to develop? If it's perception or awareness, what proof point would change their view? 8. Is your growth constraint different in different parts of their organization? (You might have a relationship problem with Finance but a capability awareness problem with Operations)"
+"Section 4: Account Intelligence - What's Changing in Their World
+This section appears in GUIDED and COMPREHENSIVE planning depth
+(For STREAMLINED planning depth, use condensed version below)
+External Changes Affecting This Account
+Strategic Direction: Where is their business heading? Growth priorities or pressure points?
+Leadership & Organization: Who's new, who's leaving, what's being restructured?
+Market & Competitive: What's happening in their industry that affects how they'll buy from us?
+Budget & Investment: Are they expanding or contracting? Where are they investing?
+So What?
+What here creates opportunity or risk for us specifically?
+
+CONDENSED VERSION (STREAMLINED Planning Depth):
+What's the biggest change happening in their business right now?
+How does that change affect what they'll need from us?"
+"PLANNING PROMPTS: Account Intelligence
+STREAMLINED HELP (2-3 prompts):
+What's the single biggest change in their business, leadership, or market this year?
+Does that change make them more likely or less likely to buy more from you?
+What do you need to learn about their situation that you don't currently know?
+GUIDED HELP (4-5 prompts):
+What are their top 3 strategic priorities for the coming year? (If you don't know, how will you find out?)
+Are there any leadership changes, reorganizations, or shifts in reporting structure? How does that affect your relationships or opportunities?
+What's happening in their market or with their competitors that's putting pressure on them? How does that pressure create opportunity for you?
+Is their budget expanding or contracting? Where are they investing vs. cutting? What does that tell you about where to focus?
+What's one piece of intelligence about their business that would change your account strategy if you knew it?
+COMPREHENSIVE HELP (6-8 prompts):
+What are their top 3-5 strategic priorities for the coming year? For each priority, what capabilities or solutions might they need? Which are in your wheelhouse?
+Map their leadership team - who's new (last 12 months), who's in a new role, who's rumored to be leaving? Each transition is an opportunity or risk.
+Are they in growth mode or efficiency mode? What evidence supports that? (Hiring, capital investment, messaging, etc.)
+What's their competitive position in their market? Are they a leader defending position, a challenger trying to grow share, or a niche player specializing? How does their position affect what they need from vendors?
+Are there regulatory, technological, or market shifts affecting their industry? How prepared are they for those shifts?
+Do they have any major initiatives launching (new product, new market, acquisition, facility expansion) that could create demand for your services?
+What's their relationship with their current vendors/partners in your space? Any signs of dissatisfaction or vulnerability?
+If you were their CEO, what would keep you up at night? How could your company help solve that problem?"
+"Section 5: Internal Changes/Issues/Opportunities
+This section appears in all planning depths
+Changes in Our Company Affecting This Account
+What's changing internally (our capabilities, capacity, leadership, focus, service model) that affects our ability to serve or grow this account?
+Opportunities (What we're building that they might need):
+Constraints (What we're changing or sunsetting that might affect them):
+Resource Issues (Capacity, expertise, or delivery challenges to consider):"
+"PLANNING PROMPTS: Internal Assessment
+STREAMLINED HELP (2-3 prompts):
+Are we building any new capabilities this year that this account might need or value?
+Do we have any capacity, delivery, or resource constraints that could affect our ability to serve or grow this account?
+Has anything changed in our company strategy or focus that makes this account more or less strategically important to us?
+GUIDED HELP (4-5 prompts):
+Review our company's strategic priorities for the year - are any of them particularly relevant to this account? (New offerings, markets, capabilities?)
+Are there any changes in our pricing, service model, or delivery approach that will affect this account? How should we communicate those changes?
+Do we have the right team assigned to this account given their needs and our growth objectives? Are there any gaps in expertise or capacity?
+Is there anything we're sunsetting or de-emphasizing that this account currently uses or values?
+If this account wants to grow with us, are there internal constraints (capacity, capability, resources) that would prevent us from serving that growth effectively?
+COMPREHENSIVE HELP (6-8 prompts):
+Map our company's strategic priorities against this account's needs - where's the alignment? Where's the misalignment?
+Are we developing any new capabilities, offerings, or approaches that could unlock new value for this account? When will they be ready?
+Review our current resource allocation for this account - do we have the right people in the right roles? Are there expertise or capacity gaps that limit our ability to grow?
+If we're changing pricing, service models, or delivery approaches - how will this account react? Do we have a proactive communication plan?
+Are there any internal politics, priorities, or constraints that make this account harder to serve or less attractive to our company?
+If this account wanted to double their spend with us tomorrow, could we handle it? What would break? What would we need to put in place?
+Is this account strategically important to our company (reference, learning opportunity, market entry) beyond just revenue? How does that affect the resources we should allocate?
+Are there other accounts we serve that have similar profiles or needs? Could we leverage learnings or capabilities across accounts?"
+"Section 6: Growth Strategy
+This section appears in all planning depths with different levels of detail
+Our Next Beachhead Opportunity
+What's the specific capability, function, or outcome where we can prove expanded value?
+(This should be strategic choice, not a wish list. Given your diagnosis and what's changing, where should you focus expansion effort?)
+
+Relationship Development Strategy
+CURRENT STATE - Who do we know?
+DEVELOPMENT STRATEGY - What needs to change?
+Existing relationships to deepen (From awareness → trust, or trust → advocacy):
+New relationships to form (New functions, leaders, or influencers):
+Specific approach for each:
+
+Proof Points We Need to Build
+What projects, results, or demonstrations would change how they see us?
+(What would move us from our current position to where we need to be? What would prove we can handle bigger, more strategic work?)
+
+CONDENSED VERSION (STREAMLINED Planning Depth):
+Our growth focus for this year"
